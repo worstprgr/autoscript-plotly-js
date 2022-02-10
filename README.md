@@ -27,7 +27,8 @@ _At http://stats.seishin.io is a live demo, where you can see, how the plot look
 
 3. After that, it creates the .js file in the same folder. Make sure the script has permissions to write files in that folder.
 
-The script also creates a count.txt. It starts at 0 and counts everytime up you execute this script. That basically creates new variables, so they not interfere in the same html/php page. 
+
+The script also creates a count.txt. It starts at 0 and counts everytime up you execute this script. That basically creates new variables, so they don't interfere in the same html/php page. 
 E.g. at the first run it creates:
 ```
 function plotFromCSV0() // first iteration
