@@ -62,6 +62,7 @@ And then, just put the two lines of the following code in your html/php file:
 ```
 
 AAA = the name of your csv file, but without the .csv extension. E.g.: 'mydata.csv' -> 'mydata'
+
 BBB = the path of the rendered .js file
 
 <br/>
