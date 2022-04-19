@@ -1,4 +1,4 @@
-I'm plotting a bunch of realtime data with plotly (js-version) on a single html page. But it's very eshausting to change all the variables everytime and add more variables for the y-axis.
+I'm plotting a bunch of realtime data with plotly (js-version) on a single html page. But it's very exhausting to change all the variables everytime and add more variables for the y-axis.
 
 So I made a python script, that automates it for me and outputs a ready .js file.
 
