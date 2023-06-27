@@ -2,8 +2,6 @@ I'm plotting a bunch of realtime data with plotly (js-version) on a single html 
 
 So I made a python script, that automates it for me and outputs a ready .js file.
 
-_At http://stats.seishin.io is a live demo, where you can see, how the plot looks like._
-
 <br/>
 
 ## **How does it work?**
